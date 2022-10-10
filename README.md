@@ -33,4 +33,4 @@ Team Member ●●●●  &nbsp;[RIYAS MOHAMED S]()
 #### Technical Architecture :
 <br>
 
-![IMG](https://github.com/IBM-EPBL/IBM-Project-43932-1660720711/blob/main/dw.png)
+![IMG](https://github.com/IBM-EPBL/IBM-Project-43932-1660720711/blob/main/Project%20Design%20%26%20Planning/dw.png)
