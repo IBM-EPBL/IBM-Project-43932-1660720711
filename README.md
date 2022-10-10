@@ -6,22 +6,10 @@
 > *PNT2022TMID45235*
 
 #### Contributors : 
-Team Member ●    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RASHAD H](https://www.linkedin.com/in/rashad-h/)
-
-Team Member ●●   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ARULNITHI P]()
-
-Team Member ●●●   &nbsp;&nbsp;&nbsp;[JAYASARATHY S](https://github.com/jayasarathy-it19)
-
-Team Member ●●●●  &nbsp;[RIYAS MOHAMED S]()
-
-
-
-#### Test : 
-Team Member ●    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/rashad-h" target="_blank">RASHAD H</a></br>
-Team Member ●●   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ARULNITHI P]()</br>
-Team Member ●●●  &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/" target="_blank">JAYASARATHY S</a></br>
-Team Member ●●●● &nbsp;[RIYAS MOHAMED S]()
-
+Team Member ●    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RASHAD H](https://www.linkedin.com/in/rashad-h/)<br>
+Team Member ●●   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[ARULNITHI P]()<br>
+Team Member ●●●   &nbsp;&nbsp;&nbsp;[JAYASARATHY S](https://github.com/jayasarathy-it19)<br>
+Team Member ●●●●  &nbsp;[RIYAS MOHAMED S]()<br>
 
 
 #### Category :
