@@ -6,7 +6,7 @@
 *PNT2022TMID45235*
 
 #### Contributors : 
-Team Member ●    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RASHAD H](https://www.linkedin.com/in/rashad-h/ target="_blank")
+Team Member ●    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [RASHAD H](https://www.linkedin.com/in/rashad-h/)
 
 
 
